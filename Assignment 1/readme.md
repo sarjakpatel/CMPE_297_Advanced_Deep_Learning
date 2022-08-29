@@ -2,7 +2,7 @@
 
 <h2> Demo Video Link: </h2>
 <li> Part a: https://youtu.be/VtowtOmKUSA </li>
-<li> Part b: </li>
+<li> Part b: https://youtu.be/gLxrQgDvmWY </li>
 
 
 <h2>Part b: AI demos</h2>
