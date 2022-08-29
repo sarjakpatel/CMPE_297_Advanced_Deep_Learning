@@ -8,8 +8,6 @@
 <h2>Part b: AI demos</h2>
 
 <h2>1) OCR For Captcha</h2>
-- It was trained on a combination of CNN and RNN with an endpoint layer for implementing CTC loss. To learn in-depth about model training, check out Keras's code example. The app asked you to upload an image of a captcha and return highly accurate alphanumeric text.
-
 - Demo: https://huggingface.co/spaces/keras-io/ocr-for-captcha
  
 <img width="1054" alt="Screen Shot 2022-08-29 at 2 47 02 PM" src="https://user-images.githubusercontent.com/49525481/187305004-3348d6e4-8fcd-487f-82df-7d0746ffd035.png">
