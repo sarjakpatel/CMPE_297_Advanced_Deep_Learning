@@ -1,8 +1,8 @@
 <h1>Assignment 1 : Use AI Pair Programmer(Github copilot). Play with recent ML model demos and produce some cool artifacts</h1>
 
 <h2> Demo Video Link:
-Part a: https://youtu.be/VtowtOmKUSA
-Part b:
+<p> Part a: https://youtu.be/VtowtOmKUSA </p>
+<p> Part b: </p>
 
 
 <h2>Part b: AI demos</h2>
