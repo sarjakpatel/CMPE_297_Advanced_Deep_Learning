@@ -89,6 +89,7 @@ Output: With the given input digit sketch, digit will be recognized
 <h2>10) DiT Document Layout Analysis</h2>
 
 - Demo: https://huggingface.co/spaces/nielsr/dit-document-layout-analysis
-  <img width="1336" alt="Screen Shot 2022-08-29 at 2 44 52 PM" src="https://user-images.githubusercontent.com/49525481/187304730-9c24b502-a26e-49a4-b7d1-84e752271b8e.png">
+  <img width="1440" alt="Screen Shot 2022-08-29 at 3 37 00 PM" src="https://user-images.githubusercontent.com/49525481/187310957-aed0f4c4-7ed2-4846-a2c2-46d96d4ad198.png">
+
   
 Output: With the given input image, the image will be divided in layout for classification
