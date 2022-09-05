@@ -1,9 +1,12 @@
 <h1>Assignment 1 : Use AI Pair Programmer(Github copilot). Play with recent ML model demos and produce some cool artifacts</h1>
 
 <h2> Demo Video Link: </h2>
-<li> Part a: https://youtu.be/VtowtOmKUSA </li>
+<li> Part a: https://youtu.be/BjfmUzo-5Qo </li>
 <li> Part b: https://youtu.be/gLxrQgDvmWY </li>
 
+<h2>Part a: Model Using Keras and Pytorch</h2>
+
+Here, I choose a MNIST dataset and try to predict a handwritten digit by using Pytorch and Keras.
 
 <h2>Part b: AI demos</h2>
 
