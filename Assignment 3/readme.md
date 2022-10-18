@@ -6,5 +6,5 @@
 Colab Link: https://colab.research.google.com/drive/1rqzKRq1ZdqCs_Byq6hBje2jPdS_HAVqj?usp=sharing
  
 
-2) transferlearning: here, we trained a model on a large dataset and transfer its knowledge to a smaller dataset.<br>
+2) Transfer Learning: here, we trained a model on a large dataset and transfer its knowledge to a smaller dataset.<br>
 Colab Link: https://colab.research.google.com/drive/1sRzunuABeQLtEmLuYwCxTUO6qUDra27D?usp=sharing
