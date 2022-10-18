@@ -3,6 +3,8 @@
 
 
 1) Implement MMoE multi task learning model.
+Colab Link: https://colab.research.google.com/drive/1rqzKRq1ZdqCs_Byq6hBje2jPdS_HAVqj?usp=sharing
  
 
 2) Implement transferlearning.
+Colab Link: https://colab.research.google.com/drive/1sRzunuABeQLtEmLuYwCxTUO6qUDra27D?usp=sharing
