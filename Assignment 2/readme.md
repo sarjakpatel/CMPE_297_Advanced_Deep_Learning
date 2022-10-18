@@ -1,4 +1,4 @@
-<h2>Assignment 2</h2> 
+<h2>Assignment 2: Graph Neural Networks</h2> 
 
 The assignment is 3 parts
 
