@@ -3,8 +3,11 @@
 The assignment is 3 parts
 
 
-1) Do graph level prediction using GAT/GCN
+1) graph level prediction using GAT/GCN <br>
+Colab Link: https://colab.research.google.com/drive/1ZfY_mbsjtbwroeN1wWXkLgAnBp0IQP4a?usp=sharing
 
-2) Do a Node classification using GAT/GCN
+2) Node classification using GAT/GCN <br>
+Colab Link: https://colab.research.google.com/drive/1QO3uqWlji_hdHCdE4V6ntzBo6lGUZxZ6?usp=sharing
 
-3) Do an link  prediction of graph
+3) Link  prediction of graph <br>
+Colab Link: https://colab.research.google.com/drive/1aplMXWeUeP1HblbsZrHHSxd-8482BjuG?usp=sharing
