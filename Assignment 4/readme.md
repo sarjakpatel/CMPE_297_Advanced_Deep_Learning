@@ -7,7 +7,7 @@
 
 
 2) Implement a colab for meta learning using prototypical networks in pytorch<br>
- Colab Link: 
+ Colab Link: https://colab.research.google.com/drive/1VaEx6nOLQGCEBmrOPi0aKkgQiIH0qmGl?usp=sharing
  
 
 3) Implkement a colab of  metalearning on top of BERT<br>
