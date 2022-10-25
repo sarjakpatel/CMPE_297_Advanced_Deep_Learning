@@ -11,6 +11,6 @@
  
 
 3) Implkement a colab of  metalearning on top of BERT<br>
- Colab Link: 
+ Colab Link: https://colab.research.google.com/drive/1Ez9D9O30UuQLUW_KZ9nCvoSCp97jr82c?usp=sharing
 
 
