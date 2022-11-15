@@ -4,4 +4,4 @@
 Colab Link: https://colab.research.google.com/drive/1pBLR8EuB4xuGCFva1ewk2HEYvD5NOFeS?usp=sharing
 
 <h3> Part 2: </h3>
-Colab Link:
+Colab Link: https://colab.research.google.com/drive/1tM32ImxuG7Iam6b1qv4FbRRBKjsDEMPp?usp=sharing
